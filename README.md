@@ -32,7 +32,7 @@ excellence and a deep curiosity about technological possibilities. Feel free to 
     </picture>
   </a>
   
-  <a href="https://www.linkedin.com/in/quentin-carrola-24306b304/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/quentin-carrola/" target="_blank" rel="noreferrer">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
