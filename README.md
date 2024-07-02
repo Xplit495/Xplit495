@@ -4,13 +4,7 @@ Hi !👋 My name is Quentin Carrola
 Developer with an Interest in Cybersecurity
 -------------------------------------------
 
-I'm a junior full-stack developer from Toulouse, France. I am currently studies in computer science at Ynov Campus Toulouse, having previously completed a high school specialization in Digital and Computer Sciences (NSI). 
-I specialize in Golang and have a solid foundation in Python, with ongoing expansions into JavaScript and Java. My Github includes projects like Groupie Trackers, a web application that effectively 
-utilizes APIs to enhance user interaction. In the near term, I aim to immerse myself in various programming languages and gain varied professional experiences across different tech environments. 
-My long-term aspiration is to specialize in cybersecurity, with a goal to complete a Master’s degree in the field. I have a keen interest in network systems that complement my programming skills,
-which I believe will play a crucial role in my future cybersecurity endeavors. I am committed to continuous learning and constantly seeking to explore the limits of programming capabilities.
-I value structured and organized teamwork, viewing it as essential for productivity in both corporate settings and personal projects. My approach is characterized by a relentless pursuit of 
-excellence and a deep curiosity about technological possibilities. Feel free to follow my GitHub to track my progress and contributions to the tech community.
+I'm a junior full-stack developer from Toulouse, France, currently studying computer science at Ynov Campus Toulouse. I have a background in Digital and Computer Sciences (NSI) from high school. My expertise lies in Golang and Python, with ongoing learning in JavaScript and Java. Notable projects on my GitHub include Groupie Trackers, a web app utilizing APIs for enhanced user interaction. I aim to explore various programming languages and gain diverse tech experiences. Long-term, I aspire to specialize in cybersecurity and complete a Master’s degree in the field. My interests in network systems complement my programming skills, essential for future cybersecurity work. I'm dedicated to continuous learning, valuing structured teamwork for productivity in both corporate and personal projects. Follow my GitHub to track my progress and contributions.
 
 *   🌍  I'm based in France, Toulouse
 *   ✉️  You can contact me at [carrolaquentin.pro@gmail.com](mailto:carrolaquentin.pro@gmail.com)
