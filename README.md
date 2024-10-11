@@ -29,7 +29,6 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
-
 </p>
 
                     
@@ -37,13 +36,13 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 <p align="left">
   <a href="https://www.linkedin.com/in/quentin-carrola/" target="_blank">
     <picture>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
     </picture>
   </a>
   
   <a href="https://www.github.com/Xplit495/" target="_blank">
     <picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
     </picture>
   </a>
 </p>
@@ -53,9 +52,13 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 ### My GitHub Stats
 
 <a href="https://github.com/Xplit495/">
-  <img height=166 align="center" src="https://github-readme-stats.vercel.app/api?username=Xplit495&hide=stars,prs&rank_icon=github&show_icons=true&include_all_commits=true" />
+  <stats>
+    <img height=166 align="center" src="https://github-readme-stats.vercel.app/api?username=Xplit495&hide=stars,prs&rank_icon=github&show_icons=true&include_all_commits=true"/>
+  </stats>
 </a>
 
 <a href="https://github.com/Xplit495/">
-  <img height=166 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xplit495&layout=compact&langs_count=8&card_width=320" />
+  <stats>
+    <img height=166 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xplit495&layout=compact&langs_count=8&card_width=320"/>
+  </stats>
 </a>
