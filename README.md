@@ -36,13 +36,13 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 <p align="left">
   <a href="https://www.linkedin.com/in/quentin-carrola/" target="_blank">
     <picture>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
     </picture>
   </a>
   
   <a href="https://www.github.com/Xplit495/" target="_blank">
     <picture>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" />
     </picture>
   </a>
 </p>
