@@ -57,5 +57,5 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 </a>
 
 <a href="https://github.com/Xplit495/">
-  <img height=144 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xplit495&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xplit495&layout=compact&langs_count=8&card_width=320" />
 </a>
