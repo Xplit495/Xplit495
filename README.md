@@ -53,7 +53,7 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 ### My GitHub Stats
 
 <a href="https://github.com/Xplit495/">
-  <img height=150 width=607 align="center" src="https://github-readme-stats.vercel.app/api?username=Xplit495&hide=stars,prs&rank_icon=github&show_icons=true&include_all_commits=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Xplit495&hide=stars,prs&rank_icon=github&show_icons=true&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/Xplit495/">
