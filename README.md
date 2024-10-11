@@ -1,4 +1,4 @@
-Hi !👋 My name is Quentin Carrola
+Hi👋 My name is Quentin Carrola
 =======================================================================================================================================
 
 Developer with an Interest in Cybersecurity
@@ -8,8 +8,10 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
 
 *   🌍  I'm based in France, Toulouse
 *   ✉️  You can contact me at [carrolaquentin.pro@gmail.com](mailto:carrolaquentin.pro@gmail.com)
-*   🧠  I'm learning Java, JavaScript
+*   🧠  I'm learning Java, JavaScript, PHP, SQL
 *   🤝  I'm open to collaborating on any project that seems interesting to develop my skills
+
+<br>
 
 ### Skills
 <p align="left">
@@ -34,10 +36,10 @@ I'm a junior full-stack developer from Toulouse, France, currently studying comp
     </picture>
   </a>
 </p>
-    
-### Badges
 
-<b>My GitHub Stats</b>
+<br>
+
+### My GitHub Stats
 
 <table>
   <tr>
